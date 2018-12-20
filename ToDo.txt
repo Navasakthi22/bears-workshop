@@ -1,0 +1,5 @@
+conversation functions needeed
+- Dollars to cents
+- Gallons to liters
+-Hours to Minutes
+
